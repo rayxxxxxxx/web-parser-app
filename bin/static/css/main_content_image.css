@@ -1,0 +1,64 @@
+/*=================== tag ===================*/
+
+* {
+    font-size: 16px;
+    font-family: "Montserrat";
+    font-weight: 400;
+
+    --accent-color-1: rgb(132, 0, 255);
+    --accent-color-2: rgb(255, 85, 0);
+    --accent-color-3: rgb(15, 211, 103);
+
+    --stroke-color-default: var(--accent-color-1);
+
+    --backgroud-color-default: rgb(255, 255, 255);
+    --background-color-hover: var(--accent-color-1);
+
+    --button-font-color-default: var(--accent-color-1);
+    --button-font-color-hover: rgb(255, 255, 255);
+
+    --box-shadow-color-1: rgb(212, 212, 212);
+
+    --input-stroke-color: rgb(164, 164, 164);
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+
+    margin: 70px 0px;
+}
+
+/*=================== class ===================*/
+
+.parse-data {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+
+    width: 400px;
+    height: 300px;
+
+    object-fit: cover;
+}
+
+.parse-data > img {
+    /* content: url(//unsplash.it/1000/700); */
+
+    width: auto;
+    height: auto;
+
+    max-width: 100%;
+    max-height: 100%;
+
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+/*=================== id ===================*/
+
+/*=================== hover ===================*/
+
+/*=================== key-frames ===================*/

@@ -1,0 +1,1284 @@
+1659261432913	geckodriver	INFO	Listening on 127.0.0.1:51161
+1659261432975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh0JwVl"
+1659261433947	Marionette	INFO	Marionette enabled
+1659261433952	Marionette	INFO	Listening on port 45435
+WebDriver BiDi listening on ws://localhost:38867
+Read port: 45435
+1659261434619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh0JwVl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38867/devtools/browser/71a32fde-c5fb-45de-a4d1-ab06fe4f0294
+1659261442509	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659261448952	Marionette	INFO	Stopped listening on port 45435
+1659261544881	geckodriver	INFO	Listening on 127.0.0.1:40937
+1659261544922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEK2F3v"
+1659261545833	Marionette	INFO	Marionette enabled
+1659261545838	Marionette	INFO	Listening on port 38353
+WebDriver BiDi listening on ws://localhost:38061
+Read port: 38353
+1659261546485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEK2F3v/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38061/devtools/browser/22dcd4b8-92d2-4621-9a69-355afcd0895a
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1659261554160	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659261575578	Marionette	INFO	Stopped listening on port 38353
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659261642252	geckodriver	INFO	Listening on 127.0.0.1:56839
+1659261642313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejnYClC"
+1659261643235	Marionette	INFO	Marionette enabled
+1659261643240	Marionette	INFO	Listening on port 34637
+WebDriver BiDi listening on ws://localhost:44845
+Read port: 34637
+1659261643712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejnYClC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44845/devtools/browser/5d564be3-0256-4e92-8038-af42ffaffe18
+1659261651552	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659261659136	Marionette	INFO	Stopped listening on port 34637
+1659261818603	geckodriver	INFO	Listening on 127.0.0.1:45057
+1659261818645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0mCMRh"
+1659261819590	Marionette	INFO	Marionette enabled
+1659261819594	Marionette	INFO	Listening on port 35293
+WebDriver BiDi listening on ws://localhost:33083
+Read port: 35293
+1659261820041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0mCMRh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33083/devtools/browser/c23cae30-d6af-4853-9b1f-886624b261fa
+1659261827790	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659261835036	Marionette	INFO	Stopped listening on port 35293
+1659261989168	geckodriver	INFO	Listening on 127.0.0.1:58781
+1659261989224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOsUVan"
+1659261990117	Marionette	INFO	Marionette enabled
+1659261990122	Marionette	INFO	Listening on port 33689
+Read port: 33689
+WebDriver BiDi listening on ws://localhost:41111
+1659261990639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOsUVan/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41111/devtools/browser/0ebc2fee-5837-44c0-aae8-3a3cec97fb97
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1659261998575	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+1659261999378	Marionette	INFO	Stopped listening on port 33689
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659262054229	geckodriver	INFO	Listening on 127.0.0.1:60981
+1659262054283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaqDIZF"
+1659262055224	Marionette	INFO	Marionette enabled
+1659262055229	Marionette	INFO	Listening on port 43233
+WebDriver BiDi listening on ws://localhost:39763
+Read port: 43233
+1659262055774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaqDIZF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39763/devtools/browser/5bd2d522-d133-4e83-98f3-8173e025b11e
+1659262063379	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659262074691	Marionette	INFO	Stopped listening on port 43233
+1659262419639	geckodriver	INFO	Listening on 127.0.0.1:51379
+1659262419699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiW5dHI"
+1659262420563	Marionette	INFO	Marionette enabled
+1659262420567	Marionette	INFO	Listening on port 41295
+WebDriver BiDi listening on ws://localhost:44417
+Read port: 41295
+1659262421044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiW5dHI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44417/devtools/browser/ddc54917-36bd-4214-9e57-f9ecea6bd557
+1659262428588	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659262443683	Marionette	INFO	Stopped listening on port 41295
+1659262467353	geckodriver	INFO	Listening on 127.0.0.1:48173
+1659262467413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEjMfRQ"
+1659262468324	Marionette	INFO	Marionette enabled
+1659262468329	Marionette	INFO	Listening on port 39681
+WebDriver BiDi listening on ws://localhost:33157
+Read port: 39681
+1659262468879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEjMfRQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33157/devtools/browser/39465bfe-f183-4321-b72e-49a9e1637dca
+1659262476369	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659262490175	Marionette	INFO	Stopped listening on port 39681
+1659262716389	geckodriver	INFO	Listening on 127.0.0.1:57243
+1659262716449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile926djN"
+1659262717362	Marionette	INFO	Marionette enabled
+1659262717369	Marionette	INFO	Listening on port 36617
+WebDriver BiDi listening on ws://localhost:45085
+Read port: 36617
+1659262717915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile926djN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45085/devtools/browser/8ed6fdbe-daa5-46d7-ab3c-b439a08e1fb8
+1659262725515	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659262748755	Marionette	INFO	Stopped listening on port 36617
+1659264316751	geckodriver	INFO	Listening on 127.0.0.1:51301
+1659264317311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFxsCWf"
+1659264318179	Marionette	INFO	Marionette enabled
+1659264318183	Marionette	INFO	Listening on port 40137
+WebDriver BiDi listening on ws://localhost:48771
+Read port: 40137
+1659264318691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFxsCWf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48771/devtools/browser/100a7e35-4451-4c90-bb66-ebfa1d769ace
+1659264326319	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659264331808	Marionette	INFO	Stopped listening on port 40137
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659264511284	geckodriver	INFO	Listening on 127.0.0.1:49689
+1659264511343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNzRlMX"
+1659264512252	Marionette	INFO	Marionette enabled
+1659264512257	Marionette	INFO	Listening on port 41317
+WebDriver BiDi listening on ws://localhost:47161
+Read port: 41317
+1659264512881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNzRlMX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47161/devtools/browser/b9266880-193e-4188-bf1b-23e2eb866205
+1659264520635	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659264533604	Marionette	INFO	Stopped listening on port 41317
+1659264554085	geckodriver	INFO	Listening on 127.0.0.1:38725
+1659264554658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57043" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6sbq3U"
+1659264555595	Marionette	INFO	Marionette enabled
+1659264555599	Marionette	INFO	Listening on port 36489
+WebDriver BiDi listening on ws://localhost:57043
+Read port: 36489
+1659264556116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6sbq3U/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57043/devtools/browser/03216985-ed3c-4f3b-8df6-ec61af6d84a0
+1659264563904	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659264568977	Marionette	INFO	Stopped listening on port 36489
+1659264570889	geckodriver	INFO	Listening on 127.0.0.1:58331
+1659264571432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile39vKBv"
+1659264572303	Marionette	INFO	Marionette enabled
+1659264572308	Marionette	INFO	Listening on port 38001
+WebDriver BiDi listening on ws://localhost:35951
+Read port: 38001
+1659264572815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile39vKBv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35951/devtools/browser/42a99b20-2034-4ee3-af42-5b477a45412f
+1659264580457	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://coub-assets.akamaized.net/assets/embed-3a1f270314932f2351cac0e2feb1be73eb0fe2711827cc0862b5a857c1fccfb3.js, line 4244: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 19: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659264591593	Marionette	INFO	Stopped listening on port 38001
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+1659264594830	geckodriver	INFO	Listening on 127.0.0.1:40523
+1659264595377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOpeCEj"
+1659264596284	Marionette	INFO	Marionette enabled
+1659264596291	Marionette	INFO	Listening on port 44537
+WebDriver BiDi listening on ws://localhost:42575
+Read port: 44537
+1659264596953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOpeCEj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42575/devtools/browser/cf67c4df-33d7-4721-b749-bb66803cd79e
+1659264604866	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659264613726	Marionette	INFO	Stopped listening on port 44537
+1659270101077	geckodriver	INFO	Listening on 127.0.0.1:55589
+1659270101634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileP3tM7z"
+1659270102543	Marionette	INFO	Marionette enabled
+1659270102548	Marionette	INFO	Listening on port 36865
+WebDriver BiDi listening on ws://localhost:33465
+Read port: 36865
+1659270103091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP3tM7z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33465/devtools/browser/695903c4-35d5-4b6e-b8b1-6b71f4ca0ecb
+1659270110849	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659270136011	Marionette	INFO	Stopped listening on port 36865
+1659270244214	geckodriver	INFO	Listening on 127.0.0.1:42941
+1659270244775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileG75ttA"
+1659270245647	Marionette	INFO	Marionette enabled
+1659270245654	Marionette	INFO	Listening on port 42671
+WebDriver BiDi listening on ws://localhost:44861
+Read port: 42671
+1659270246339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG75ttA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44861/devtools/browser/657bc5b4-33fe-4c98-bb7d-a410442b0995
+1659270254157	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659270278671	Marionette	INFO	Stopped listening on port 42671
+1659270501322	geckodriver	INFO	Listening on 127.0.0.1:48397
+1659270501883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileglMGtf"
+1659270502796	Marionette	INFO	Marionette enabled
+1659270502801	Marionette	INFO	Listening on port 41119
+WebDriver BiDi listening on ws://localhost:56329
+Read port: 41119
+1659270503332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileglMGtf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56329/devtools/browser/1be2f60d-9ad2-48a3-8573-2d1cc604d2b0
+1659270511513	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659270518615	Marionette	INFO	Stopped listening on port 41119
+1659270526448	geckodriver	INFO	Listening on 127.0.0.1:47553
+1659270527011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileluk80x"
+1659270527897	Marionette	INFO	Marionette enabled
+1659270527902	Marionette	INFO	Listening on port 37147
+WebDriver BiDi listening on ws://localhost:45705
+Read port: 37147
+1659270528442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileluk80x/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45705/devtools/browser/af98272a-1f0c-4991-b75a-c0cc8840942f
+1659270536091	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659270542337	Marionette	INFO	Stopped listening on port 37147
+1659270640047	geckodriver	INFO	Listening on 127.0.0.1:59827
+1659270640607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7hffyL"
+1659270641486	Marionette	INFO	Marionette enabled
+1659270641490	Marionette	INFO	Listening on port 36463
+WebDriver BiDi listening on ws://localhost:38879
+Read port: 36463
+1659270642009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7hffyL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38879/devtools/browser/34dda97e-3ad1-431e-8dcf-7ee6fbc767e6
+1659270649744	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659270666849	Marionette	INFO	Stopped listening on port 36463
+1659270737205	geckodriver	INFO	Listening on 127.0.0.1:40695
+1659270737767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewJ2lgM"
+1659270738649	Marionette	INFO	Marionette enabled
+1659270738654	Marionette	INFO	Listening on port 33859
+WebDriver BiDi listening on ws://localhost:46037
+Read port: 33859
+1659270739197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewJ2lgM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46037/devtools/browser/defadb58-c03a-4e8a-a2c5-0c8c5b867b5a
+1659270747011	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659270762467	Marionette	INFO	Stopped listening on port 33859
+1659270894153	geckodriver	INFO	Listening on 127.0.0.1:36313
+1659270894716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2zqmYp"
+1659270895603	Marionette	INFO	Marionette enabled
+1659270895609	Marionette	INFO	Listening on port 43877
+Read port: 43877
+WebDriver BiDi listening on ws://localhost:60205
+1659270896121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2zqmYp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60205/devtools/browser/61548ed2-6d53-4f05-b9df-7ca48f360383
+1659270903717	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2347:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659270910364	Marionette	INFO	Stopped listening on port 43877
+1659273455908	geckodriver	INFO	Listening on 127.0.0.1:53787
+1659273456464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecUSjCK"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659273457732	Marionette	INFO	Marionette enabled
+1659273457746	Marionette	INFO	Listening on port 41017
+WebDriver BiDi listening on ws://localhost:49151
+Read port: 41017
+1659273458311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecUSjCK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49151/devtools/browser/c4473cbc-0a7a-4eb0-8438-5006cc5a3cda
+1659273466899	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659273469078	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-07-31T13:17:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-07-31T13:17:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-07-31T13:17:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-07-31T13:17:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1659273480245	Marionette	INFO	Stopped listening on port 41017
+1659273510609	geckodriver	INFO	Listening on 127.0.0.1:58215
+1659273511213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOlobx5"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659273512186	Marionette	INFO	Marionette enabled
+1659273512191	Marionette	INFO	Listening on port 33641
+WebDriver BiDi listening on ws://localhost:60735
+Read port: 33641
+1659273512695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOlobx5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60735/devtools/browser/fac190b3-7410-4a12-9769-0902bc70eda1
+1659273520390	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659273522302	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-07-31T13:18:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-07-31T13:18:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-07-31T13:18:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-07-31T13:18:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1659273543349	Marionette	INFO	Stopped listening on port 33641
+1659274758344	geckodriver	INFO	Listening on 127.0.0.1:38279
+1659274758408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOTF23T"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659274759306	Marionette	INFO	Marionette enabled
+1659274759312	Marionette	INFO	Listening on port 34461
+WebDriver BiDi listening on ws://localhost:47635
+Read port: 34461
+1659274760025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOTF23T/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47635/devtools/browser/7311d3c4-66d1-4377-a65d-fd96faff972b
+1659274767795	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659274769739	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-07-31T13:39:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-07-31T13:39:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-07-31T13:39:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-07-31T13:39:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1659274780370	Marionette	INFO	Stopped listening on port 34461
+1659275069961	geckodriver	INFO	Listening on 127.0.0.1:50731
+1659275070523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekLZkFl"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659275071379	Marionette	INFO	Marionette enabled
+1659275071384	Marionette	INFO	Listening on port 46365
+WebDriver BiDi listening on ws://localhost:41033
+Read port: 46365
+1659275071959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekLZkFl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41033/devtools/browser/a260a576-56a9-4e71-b824-6170e1ba79ed
+1659275079611	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659275081550	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-07-31T13:44:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-07-31T13:44:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-07-31T13:44:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-07-31T13:44:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1659275088088	Marionette	INFO	Stopped listening on port 46365
+1659287760940	geckodriver	INFO	Listening on 127.0.0.1:55973
+1659287760997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevKcq7m"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659287761905	Marionette	INFO	Marionette enabled
+1659287761910	Marionette	INFO	Listening on port 32903
+WebDriver BiDi listening on ws://localhost:60253
+Read port: 32903
+1659287762419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevKcq7m/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60253/devtools/browser/94671a22-ebdf-4043-bda7-767f02283088
+1659287770171	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659287776563	Marionette	INFO	Stopped listening on port 32903
+1659287889310	geckodriver	INFO	Listening on 127.0.0.1:47929
+1659287889365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9o7WXb"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659287890368	Marionette	INFO	Marionette enabled
+1659287890372	Marionette	INFO	Listening on port 42543
+WebDriver BiDi listening on ws://localhost:40793
+Read port: 42543
+1659287891027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9o7WXb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40793/devtools/browser/75d9f5a5-eb6a-4000-a8ed-eb072e64a4f4
+1659287898623	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659287905522	Marionette	INFO	Stopped listening on port 42543
+1659288530560	geckodriver	INFO	Listening on 127.0.0.1:42311
+1659288531118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT2ygTp"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659288532089	Marionette	INFO	Marionette enabled
+1659288532094	Marionette	INFO	Listening on port 38255
+WebDriver BiDi listening on ws://localhost:34545
+Read port: 38255
+1659288532606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT2ygTp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34545/devtools/browser/e85a0fdd-00e0-435c-b83f-01342f4f04a0
+1659288540298	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1659288545088	Marionette	INFO	Stopped listening on port 38255
+1659288710602	geckodriver	INFO	Listening on 127.0.0.1:41719
+1659288710665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTQi6NY"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659288711616	Marionette	INFO	Marionette enabled
+1659288711623	Marionette	INFO	Listening on port 40431
+WebDriver BiDi listening on ws://localhost:55033
+Read port: 40431
+1659288712176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTQi6NY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55033/devtools/browser/e85fb45f-3bd2-438e-bcc7-6675e8e8a742
+1659288719750	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1659288725963	Marionette	INFO	Stopped listening on port 40431
+1659288762424	geckodriver	INFO	Listening on 127.0.0.1:45953
+1659288762984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKZfPBb"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659288763915	Marionette	INFO	Marionette enabled
+1659288763920	Marionette	INFO	Listening on port 34583
+WebDriver BiDi listening on ws://localhost:44623
+Read port: 34583
+1659288764479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKZfPBb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44623/devtools/browser/4fec1612-0bf5-442c-ac67-3450ef951055
+1659288772058	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1659288780275	Marionette	INFO	Stopped listening on port 34583
+1659288911423	geckodriver	INFO	Listening on 127.0.0.1:37653
+1659288911984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebKzs0U"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659288912891	Marionette	INFO	Marionette enabled
+1659288912897	Marionette	INFO	Listening on port 46519
+WebDriver BiDi listening on ws://localhost:58343
+Read port: 46519
+1659288913372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebKzs0U/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58343/devtools/browser/2c5cf181-7615-4fc9-8c8a-dfea038509a6
+1659288920982	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1659288934991	Marionette	INFO	Stopped listening on port 46519
+1659288936158	geckodriver	INFO	Listening on 127.0.0.1:46295
+1659288936691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileweCH5T"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659288937570	Marionette	INFO	Marionette enabled
+1659288937576	Marionette	INFO	Listening on port 43303
+WebDriver BiDi listening on ws://localhost:37919
+Read port: 43303
+1659288937988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileweCH5T/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37919/devtools/browser/6308e7a9-ea10-4489-a9d7-3455acff9ef2
+1659288945650	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1659288960501	Marionette	INFO	Stopped listening on port 43303
+1659289037220	geckodriver	INFO	Listening on 127.0.0.1:53435
+1659289037784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKNofgF"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659289038719	Marionette	INFO	Marionette enabled
+1659289038725	Marionette	INFO	Listening on port 43157
+WebDriver BiDi listening on ws://localhost:50541
+Read port: 43157
+1659289039268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKNofgF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50541/devtools/browser/590ff435-b69c-4498-82f1-c942eaabcf92
+1659289046935	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1659289055728	Marionette	INFO	Stopped listening on port 43157
+1659289057189	geckodriver	INFO	Listening on 127.0.0.1:55749
+1659289057744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqYLCq4"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659289058993	Marionette	INFO	Marionette enabled
+1659289059001	Marionette	INFO	Listening on port 33627
+WebDriver BiDi listening on ws://localhost:33495
+Read port: 33627
+1659289059542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqYLCq4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33495/devtools/browser/a57a3bf7-9fd0-4095-93b5-333659db10a1
+1659289067481	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1659289075891	Marionette	INFO	Stopped listening on port 33627
+1659289077495	geckodriver	INFO	Listening on 127.0.0.1:41853
+1659289078036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFKPvjy"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659289078973	Marionette	INFO	Marionette enabled
+1659289078980	Marionette	INFO	Listening on port 44011
+WebDriver BiDi listening on ws://localhost:42181
+Read port: 44011
+1659289079496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFKPvjy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42181/devtools/browser/366aff88-2d08-4f16-8bf3-95e8bd9d9768
+1659289087357	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1659289095622	Marionette	INFO	Stopped listening on port 44011
+1659289097061	geckodriver	INFO	Listening on 127.0.0.1:48191
+1659289097103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAMD6rW"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659289098040	Marionette	INFO	Marionette enabled
+1659289098045	Marionette	INFO	Listening on port 33049
+WebDriver BiDi listening on ws://localhost:54907
+Read port: 33049
+1659289098642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAMD6rW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54907/devtools/browser/2f879106-9ac7-4a46-b8e0-a90ab99390c8
+1659289106404	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1659289114372	Marionette	INFO	Stopped listening on port 33049
+1659289115880	geckodriver	INFO	Listening on 127.0.0.1:60729
+1659289115914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileToT0OL"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659289116929	Marionette	INFO	Marionette enabled
+1659289116937	Marionette	INFO	Listening on port 41561
+WebDriver BiDi listening on ws://localhost:39709
+Read port: 41561
+1659289117433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileToT0OL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39709/devtools/browser/a912bc31-1f8d-4974-993c-e5e71e133d60
+1659289125125	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://js.joyreactor.cc/js/jquery.min.js?v=1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1659289133200	Marionette	INFO	Stopped listening on port 41561
+1659289272682	geckodriver	INFO	Listening on 127.0.0.1:47121
+1659289273238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileub3K7W"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659289274101	Marionette	INFO	Marionette enabled
+1659289274106	Marionette	INFO	Listening on port 33535
+WebDriver BiDi listening on ws://localhost:36421
+Read port: 33535
+1659289274652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileub3K7W/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36421/devtools/browser/4ae8da27-1867-4dee-b791-1da7ff6fe3d7
+1659289282241	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659289290556	Marionette	INFO	Stopped listening on port 33535
+1659289646752	geckodriver	INFO	Listening on 127.0.0.1:53611
+1659289646800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilee812N1"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659289647769	Marionette	INFO	Marionette enabled
+1659289647774	Marionette	INFO	Listening on port 35835
+WebDriver BiDi listening on ws://localhost:51657
+Read port: 35835
+1659289648268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee812N1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51657/devtools/browser/fed6276c-cdb2-415b-b641-90181ac3b58b
+1659289656109	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659289665569	Marionette	INFO	Stopped listening on port 35835
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1659289836075	geckodriver	INFO	Listening on 127.0.0.1:40261
+1659289836636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQ8rqqq"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659289837548	Marionette	INFO	Marionette enabled
+1659289837555	Marionette	INFO	Listening on port 41515
+WebDriver BiDi listening on ws://localhost:48997
+Read port: 41515
+1659289838137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ8rqqq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48997/devtools/browser/077eb39c-f0d5-42fd-aa8e-f537620321bc
+1659289845876	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659289861500	Marionette	INFO	Stopped listening on port 41515
+1659289951167	geckodriver	INFO	Listening on 127.0.0.1:59685
+1659289951227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileESvDze"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659289952190	Marionette	INFO	Marionette enabled
+1659289952196	Marionette	INFO	Listening on port 45801
+WebDriver BiDi listening on ws://localhost:48447
+Read port: 45801
+1659289952774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileESvDze/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48447/devtools/browser/bc0b7f9d-e415-488f-a13a-85cf8420b332
+1659289960415	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659290070553	Marionette	INFO	Stopped listening on port 45801
+1659295064776	geckodriver	INFO	Listening on 127.0.0.1:42543
+1659295065345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5FaYej"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659295066241	Marionette	INFO	Marionette enabled
+1659295066250	Marionette	INFO	Listening on port 40737
+WebDriver BiDi listening on ws://localhost:43137
+Read port: 40737
+1659295066747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5FaYej/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43137/devtools/browser/97111a85-3209-406a-b070-9df2d1188a81
+1659295074458	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1659295078079	Marionette	INFO	Stopped listening on port 40737
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 2 > eval line 7438 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659295121981	geckodriver	INFO	Listening on 127.0.0.1:43873
+1659295122039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefJdMxb"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659295122935	Marionette	INFO	Marionette enabled
+1659295122939	Marionette	INFO	Listening on port 33473
+Read port: 33473
+WebDriver BiDi listening on ws://localhost:35507
+1659295123444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefJdMxb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35507/devtools/browser/ef38dea3-7eb2-407d-9441-35e1e6e500bb
+1659295131013	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1659295134441	Marionette	INFO	Stopped listening on port 33473
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 2 > eval line 7145 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659295159033	geckodriver	INFO	Listening on 127.0.0.1:54323
+1659295159596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5liD2A"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659295160481	Marionette	INFO	Marionette enabled
+1659295160485	Marionette	INFO	Listening on port 36383
+WebDriver BiDi listening on ws://localhost:45611
+Read port: 36383
+1659295161090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5liD2A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45611/devtools/browser/688a7d30-a703-4d48-ad7e-07547a653322
+1659295168880	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 2 > eval line 3726 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659295176881	Marionette	INFO	Stopped listening on port 36383
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659295178181	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1659295250914	geckodriver	INFO	Listening on 127.0.0.1:56601
+1659295251475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile96EgXe"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659295252326	Marionette	INFO	Marionette enabled
+1659295252330	Marionette	INFO	Listening on port 37719
+WebDriver BiDi listening on ws://localhost:33013
+Read port: 37719
+1659295252866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile96EgXe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33013/devtools/browser/91b26d56-9ca9-4079-b2ab-c1434d34a2ca
+1659295260493	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659295271897	Marionette	INFO	Stopped listening on port 37719
+1659295331911	geckodriver	INFO	Listening on 127.0.0.1:32811
+1659295332473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiley0zu5n"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659295333397	Marionette	INFO	Marionette enabled
+1659295333402	Marionette	INFO	Listening on port 38083
+WebDriver BiDi listening on ws://localhost:42287
+Read port: 38083
+1659295333938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley0zu5n/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42287/devtools/browser/2700e508-00a8-4e23-8090-fab64bf47d6a
+1659295341731	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659295345178	Marionette	INFO	Stopped listening on port 38083
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofiley0zu5n/protections.sqlite
+1659295403436	geckodriver	INFO	Listening on 127.0.0.1:46385
+1659295403995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileooRYZ4"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659295404886	Marionette	INFO	Marionette enabled
+1659295404890	Marionette	INFO	Listening on port 43645
+Read port: 43645
+WebDriver BiDi listening on ws://localhost:46625
+1659295405416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileooRYZ4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46625/devtools/browser/3ba64a9e-e7f9-4e80-be2b-64e70c97b559
+1659295413191	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659295416705	Marionette	INFO	Stopped listening on port 43645
+1659295631349	geckodriver	INFO	Listening on 127.0.0.1:36531
+1659295631915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXkKW3X"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659295632818	Marionette	INFO	Marionette enabled
+1659295632823	Marionette	INFO	Listening on port 42309
+WebDriver BiDi listening on ws://localhost:49205
+Read port: 42309
+1659295633398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXkKW3X/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49205/devtools/browser/075d7c8e-3141-407f-80ff-c868e9a4894e
+1659295641155	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659295644676	Marionette	INFO	Stopped listening on port 42309
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659295824482	geckodriver	INFO	Listening on 127.0.0.1:46693
+1659295824524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilem0Kcyv"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659295825432	Marionette	INFO	Marionette enabled
+1659295825437	Marionette	INFO	Listening on port 43305
+WebDriver BiDi listening on ws://localhost:44521
+Read port: 43305
+1659295825909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem0Kcyv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44521/devtools/browser/3f5a6342-f8ac-481f-8fd3-b155b7dccbaa
+1659295833679	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659295837045	Marionette	INFO	Stopped listening on port 43305
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilem0Kcyv/protections.sqlite
+1659295913851	geckodriver	INFO	Listening on 127.0.0.1:51727
+1659295914415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexcpTDL"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659295915317	Marionette	INFO	Marionette enabled
+1659295915323	Marionette	INFO	Listening on port 45309
+WebDriver BiDi listening on ws://localhost:48677
+Read port: 45309
+1659295915845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexcpTDL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48677/devtools/browser/4c431836-2cf4-4518-accd-8f6daeb40824
+1659295923766	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659295927260	Marionette	INFO	Stopped listening on port 45309
+1659295972205	geckodriver	INFO	Listening on 127.0.0.1:50517
+1659295972772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52955" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0hV4RQ"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659295973731	Marionette	INFO	Marionette enabled
+1659295973739	Marionette	INFO	Listening on port 41039
+WebDriver BiDi listening on ws://localhost:52955
+Read port: 41039
+1659295974343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0hV4RQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52955/devtools/browser/b196d6fb-3c81-479d-9ff7-ed2b3161c372
+1659295982427	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659295986361	Marionette	INFO	Stopped listening on port 41039
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659296005824	geckodriver	INFO	Listening on 127.0.0.1:38473
+1659296006383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehOXL0s"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659296007308	Marionette	INFO	Marionette enabled
+1659296007314	Marionette	INFO	Listening on port 38215
+WebDriver BiDi listening on ws://localhost:43483
+Read port: 38215
+1659296007902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehOXL0s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43483/devtools/browser/174c72e3-9a3d-4d68-93b9-447d402e3e94
+1659296015766	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659296019648	Marionette	INFO	Stopped listening on port 38215
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilehOXL0s/protections.sqlite
+1659296049999	geckodriver	INFO	Listening on 127.0.0.1:38197
+1659296050562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2hEPhJ"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659296051447	Marionette	INFO	Marionette enabled
+1659296051452	Marionette	INFO	Listening on port 37599
+WebDriver BiDi listening on ws://localhost:46759
+Read port: 37599
+1659296052046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2hEPhJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46759/devtools/browser/c32fc2b9-698b-4fa4-b7bf-21ef41ef26d5
+1659296059919	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659296063917	Marionette	INFO	Stopped listening on port 37599
+1659296118636	geckodriver	INFO	Listening on 127.0.0.1:48719
+1659296119194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVlZRXG"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659296120091	Marionette	INFO	Marionette enabled
+1659296120097	Marionette	INFO	Listening on port 35383
+WebDriver BiDi listening on ws://localhost:59793
+Read port: 35383
+1659296120670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVlZRXG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59793/devtools/browser/4b2d312d-dede-48dd-aefd-eda72126af42
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+1659296128681	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659296132659	Marionette	INFO	Stopped listening on port 35383
+1659296226861	geckodriver	INFO	Listening on 127.0.0.1:60439
+1659296226899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCVCocx"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659296227858	Marionette	INFO	Marionette enabled
+1659296227864	Marionette	INFO	Listening on port 43343
+WebDriver BiDi listening on ws://localhost:57963
+Read port: 43343
+1659296228429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCVCocx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57963/devtools/browser/bd93c864-f858-4ca8-bea4-131ba14444d9
+1659296236333	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659296240220	Marionette	INFO	Stopped listening on port 43343
+1659296270156	geckodriver	INFO	Listening on 127.0.0.1:41033
+1659296270221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4FNnHM"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659296271136	Marionette	INFO	Marionette enabled
+1659296271142	Marionette	INFO	Listening on port 41335
+WebDriver BiDi listening on ws://localhost:40339
+Read port: 41335
+1659296271677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4FNnHM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40339/devtools/browser/1c06bf83-8478-4e78-a04c-37cfc6afe5ad
+1659296279557	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659296335902	Marionette	INFO	Stopped listening on port 41335
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659296369614	geckodriver	INFO	Listening on 127.0.0.1:35751
+1659296369670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3AqbUj"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659296370525	Marionette	INFO	Marionette enabled
+1659296370530	Marionette	INFO	Listening on port 40039
+WebDriver BiDi listening on ws://localhost:59001
+Read port: 40039
+1659296371308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3AqbUj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59001/devtools/browser/f5229a1e-ca3b-4184-989b-b7ad147de769
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659296389662	geckodriver	INFO	Listening on 127.0.0.1:56599
+1659296389718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileenH0GL"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659296390653	Marionette	INFO	Marionette enabled
+1659296390659	Marionette	INFO	Listening on port 43525
+WebDriver BiDi listening on ws://localhost:48755
+Read port: 43525
+1659296391167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileenH0GL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48755/devtools/browser/26e16f9a-fd38-45f6-a507-20fcff3185ce
+1659296399358	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659296403341	Marionette	INFO	Stopped listening on port 43525
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileenH0GL/protections.sqlite
+1659296465713	geckodriver	INFO	Listening on 127.0.0.1:54443
+1659296465772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF3hZ07"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659296466655	Marionette	INFO	Marionette enabled
+1659296466661	Marionette	INFO	Listening on port 45715
+WebDriver BiDi listening on ws://localhost:41025
+Read port: 45715
+1659296467128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF3hZ07/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41025/devtools/browser/a2475983-e443-480c-bf4d-74cfba17e765
+1659296474045	Marionette	INFO	Stopped listening on port 45715
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659296474093	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+[2022-07-31T19:41:14Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1659296482149	geckodriver	INFO	Listening on 127.0.0.1:40119
+1659296482207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47949" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileriVxIh"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659296483097	Marionette	INFO	Marionette enabled
+1659296483102	Marionette	INFO	Listening on port 42891
+Read port: 42891
+WebDriver BiDi listening on ws://localhost:47949
+1659296483811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileriVxIh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47949/devtools/browser/a4bd5a51-3daf-406f-a21c-c43c84f107af
+1659296491848	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659296495743	Marionette	INFO	Stopped listening on port 42891
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileriVxIh/protections.sqlite
+1659296610784	geckodriver	INFO	Listening on 127.0.0.1:43309
+1659296610848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4FtYb1"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659296611739	Marionette	INFO	Marionette enabled
+1659296611744	Marionette	INFO	Listening on port 39141
+Read port: 39141
+WebDriver BiDi listening on ws://localhost:60039
+1659296612495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4FtYb1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60039/devtools/browser/e6ed658d-c6ad-4cde-926e-632b207e166a
+1659296620080	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659296624340	Marionette	INFO	Stopped listening on port 39141
+1659337331047	geckodriver	INFO	Listening on 127.0.0.1:44197
+1659337331619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1Jrtp9"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659337332935	Marionette	INFO	Marionette enabled
+1659337332961	Marionette	INFO	Listening on port 34563
+WebDriver BiDi listening on ws://localhost:41885
+Read port: 34563
+1659337333581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1Jrtp9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41885/devtools/browser/58a10b30-c4db-4842-8971-34f7f2ca1283
+1659337344390	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659337352405	Marionette	INFO	Stopped listening on port 34563
+1659337492057	geckodriver	INFO	Listening on 127.0.0.1:44705
+1659337492112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletfzRuv"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659337493032	Marionette	INFO	Marionette enabled
+1659337493037	Marionette	INFO	Listening on port 39505
+WebDriver BiDi listening on ws://localhost:47809
+Read port: 39505
+1659337493534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletfzRuv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47809/devtools/browser/c7661c4b-4bca-42c1-96ae-e7ac65733648
+1659337501012	Marionette	INFO	Stopped listening on port 39505
+1659337581532	geckodriver	INFO	Listening on 127.0.0.1:57325
+1659337582092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilechIXm5"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659337582998	Marionette	INFO	Marionette enabled
+1659337583003	Marionette	INFO	Listening on port 46753
+WebDriver BiDi listening on ws://localhost:54765
+Read port: 46753
+1659337583468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilechIXm5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54765/devtools/browser/4dd18da0-e0f1-474f-a37a-490198634db2
+1659337591185	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659337595137	Marionette	INFO	Stopped listening on port 46753
+1659337705131	geckodriver	INFO	Listening on 127.0.0.1:55047
+1659337705202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLlOjaT"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659337706144	Marionette	INFO	Marionette enabled
+1659337706151	Marionette	INFO	Listening on port 35227
+WebDriver BiDi listening on ws://localhost:52307
+Read port: 35227
+1659337706647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLlOjaT/search.json.mozlz4", (void 0)))
+1659337709151	Marionette	INFO	Stopped listening on port 35227
+1659337709159	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+Exiting due to channel error.
+Exiting due to channel error.
+1659337712835	geckodriver	INFO	Listening on 127.0.0.1:54345
+1659337713401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHYJJwa"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659337714466	Marionette	INFO	Marionette enabled
+1659337714473	Marionette	INFO	Listening on port 45197
+WebDriver BiDi listening on ws://localhost:38621
+Read port: 45197
+1659337714973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHYJJwa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38621/devtools/browser/a82d9cf6-e400-4217-8e37-c63a2801d977
+1659337722562	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659337723811	Marionette	INFO	Stopped listening on port 45197
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659337744664	geckodriver	INFO	Listening on 127.0.0.1:49263
+1659337745230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileV5Yz6o"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659337746161	Marionette	INFO	Marionette enabled
+1659337746166	Marionette	INFO	Listening on port 38911
+WebDriver BiDi listening on ws://localhost:35341
+Read port: 38911
+1659337746712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV5Yz6o/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35341/devtools/browser/6a6e0896-34e0-4f28-8097-664087b8c137
+1659337754893	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659337758743	Marionette	INFO	Stopped listening on port 38911
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileV5Yz6o/protections.sqlite
+1659337827785	geckodriver	INFO	Listening on 127.0.0.1:58969
+1659337828346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAjPz0k"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659337829260	Marionette	INFO	Marionette enabled
+1659337829267	Marionette	INFO	Listening on port 40257
+WebDriver BiDi listening on ws://localhost:58919
+Read port: 40257
+1659337829803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAjPz0k/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58919/devtools/browser/2d74f092-e6f7-494e-9003-4dc3544e6ca6
+1659337837671	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659337841634	Marionette	INFO	Stopped listening on port 40257
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileAjPz0k/protections.sqlite
+1659337908519	geckodriver	INFO	Listening on 127.0.0.1:59891
+1659337908579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60289" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexRjAZj"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659337909574	Marionette	INFO	Marionette enabled
+1659337909581	Marionette	INFO	Listening on port 36689
+WebDriver BiDi listening on ws://localhost:60289
+Read port: 36689
+1659337910109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexRjAZj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60289/devtools/browser/6bf20fc2-a659-4137-ac08-d58bfae4d500
+1659337917950	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659337923920	Marionette	INFO	Stopped listening on port 36689
+1659338198177	geckodriver	INFO	Listening on 127.0.0.1:40989
+1659338198231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewCzFQE"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659338199221	Marionette	INFO	Marionette enabled
+1659338199227	Marionette	INFO	Listening on port 46765
+Read port: 46765
+WebDriver BiDi listening on ws://localhost:58921
+1659338199775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewCzFQE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58921/devtools/browser/d69d6fea-ee46-40ac-b624-2ed8048c694e
+1659338207698	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659338213535	Marionette	INFO	Stopped listening on port 46765
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659338336235	geckodriver	INFO	Listening on 127.0.0.1:52835
+1659338336295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeD7X42"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659338337247	Marionette	INFO	Marionette enabled
+1659338337252	Marionette	INFO	Listening on port 42901
+WebDriver BiDi listening on ws://localhost:54547
+Read port: 42901
+1659338337764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeD7X42/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54547/devtools/browser/9acf8b3f-0392-442f-924b-986663f4cc4d
+1659338345636	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659338351497	Marionette	INFO	Stopped listening on port 42901
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659338419627	geckodriver	INFO	Listening on 127.0.0.1:56133
+1659338419683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEuzwMZ"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659338420598	Marionette	INFO	Marionette enabled
+1659338420603	Marionette	INFO	Listening on port 40715
+WebDriver BiDi listening on ws://localhost:52735
+Read port: 40715
+1659338421148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEuzwMZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52735/devtools/browser/547c8552-e54e-404e-ac77-a39364916b1e
+1659338429009	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659338434863	Marionette	INFO	Stopped listening on port 40715
+1659338552369	geckodriver	INFO	Listening on 127.0.0.1:46237
+1659338552431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileggelwG"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659338553340	Marionette	INFO	Marionette enabled
+1659338553345	Marionette	INFO	Listening on port 35691
+WebDriver BiDi listening on ws://localhost:39265
+Read port: 35691
+1659338553890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileggelwG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39265/devtools/browser/73fddf8f-4272-4628-a282-1fbb231f3c11
+1659338561963	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659338565834	Marionette	INFO	Stopped listening on port 35691
+1659338602540	geckodriver	INFO	Listening on 127.0.0.1:56147
+1659338603101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8iDUQ5"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659338604053	Marionette	INFO	Marionette enabled
+1659338604059	Marionette	INFO	Listening on port 41459
+WebDriver BiDi listening on ws://localhost:39905
+Read port: 41459
+1659338604634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8iDUQ5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39905/devtools/browser/675439a2-8cf2-4c85-9c8c-32e3cbdd58b3
+1659338612708	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659338616685	Marionette	INFO	Stopped listening on port 41459
+1659338619198	geckodriver	INFO	Listening on 127.0.0.1:49503
+1659338619735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileue3Kxk"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659338620776	Marionette	INFO	Marionette enabled
+1659338620786	Marionette	INFO	Listening on port 43829
+WebDriver BiDi listening on ws://localhost:42783
+Read port: 43829
+1659338621451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileue3Kxk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42783/devtools/browser/0797c38d-4997-4428-aa2c-81b242be3a1a
+1659338629374	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659338633745	Marionette	INFO	Stopped listening on port 43829
+1659338635271	geckodriver	INFO	Listening on 127.0.0.1:55781
+1659338635809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8aeFlY"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659338637013	Marionette	INFO	Marionette enabled
+1659338637019	Marionette	INFO	Listening on port 37565
+WebDriver BiDi listening on ws://localhost:54873
+Read port: 37565
+1659338637600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8aeFlY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54873/devtools/browser/b8323d94-441c-4115-9979-ca0f42207fa5
+1659338645746	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659338649994	Marionette	INFO	Stopped listening on port 37565
+1659338651607	geckodriver	INFO	Listening on 127.0.0.1:35895
+1659338652146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3Ejtdb"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659338653265	Marionette	INFO	Marionette enabled
+1659338653270	Marionette	INFO	Listening on port 33595
+WebDriver BiDi listening on ws://localhost:44779
+Read port: 33595
+1659338653730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3Ejtdb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44779/devtools/browser/1b85e1ed-44c9-45bc-af15-6dd41f0efad6
+1659338661478	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659338665704	Marionette	INFO	Stopped listening on port 33595
+1659338667907	geckodriver	INFO	Listening on 127.0.0.1:49397
+1659338668450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGqwTYf"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659338669403	Marionette	INFO	Marionette enabled
+1659338669410	Marionette	INFO	Listening on port 42727
+WebDriver BiDi listening on ws://localhost:40419
+Read port: 42727
+1659338669917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGqwTYf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40419/devtools/browser/f0c31b7e-920a-4dd5-90ea-e29f64b8e46e
+1659338677988	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1659338681939	Marionette	INFO	Stopped listening on port 42727
+1659338974224	geckodriver	INFO	Listening on 127.0.0.1:33747
+1659338974965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile87MJza"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659338975958	Marionette	INFO	Marionette enabled
+1659338975965	Marionette	INFO	Listening on port 33973
+Read port: 33973
+WebDriver BiDi listening on ws://localhost:41071
+1659338976476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile87MJza/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41071/devtools/browser/92296e25-cd35-4622-baac-65d3fe16bf75
+1659338984600	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659338999246	Marionette	INFO	Stopped listening on port 33973
+1659339067103	geckodriver	INFO	Listening on 127.0.0.1:48145
+1659339067903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehicLad"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659339069238	Marionette	INFO	Marionette enabled
+1659339069246	Marionette	INFO	Listening on port 37533
+WebDriver BiDi listening on ws://localhost:36923
+Read port: 37533
+1659339069774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehicLad/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36923/devtools/browser/acc40e03-e5eb-43ec-b61a-6699c8902683
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+1659339077553	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.173bbf773dfcfe52c3f6.js, line 1: unreachable code after return statement
+1659339101997	Marionette	INFO	Stopped listening on port 37533

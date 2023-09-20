@@ -1,0 +1,80 @@
+/*=================== tag ===================*/
+
+* {
+    --accent-color-1: rgb(132, 0, 255);
+    --accent-color-2: rgb(255, 85, 0);
+    --accent-color-3: rgb(15, 211, 103);
+
+    --stroke-color-default: var(--accent-color-1);
+
+    --backgroud-color-default: rgb(255, 255, 255);
+    --background-color-hover: var(--accent-color-1);
+
+    --button-font-color-default: var(--accent-color-1);
+    --button-font-color-hover: rgb(255, 255, 255);
+
+    --box-shadow-color-1: rgb(212, 212, 212);
+}
+
+/*=================== class ===================*/
+
+.form-element.secondary-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+    margin-top: 70px;
+
+    width: 80%;
+}
+
+.form-element.secondary-form a {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    object-fit: cover;
+
+    width: 100px;
+    height: 40px;
+
+    padding: 0px 20px;
+
+    background-color: var(--background-color-default);
+
+    border: 1px solid var(--button-font-color-default);
+    border-radius: 50vh;
+
+    box-shadow: 0px 5px 10px 1px var(--box-shadow-color-1);
+
+    color: var(--button-font-color-default);
+
+    transition: 100ms linear;
+}
+
+.form-element.secondary-form a img {
+    content: url(../icons/download_purple.png);
+
+    transform: scale(0.3);
+}
+
+.form-element.secondary-form p {
+    font-size: 20px;
+}
+
+/*=================== id ===================*/
+
+/*=================== hover ===================*/
+
+.form-element.secondary-form a:hover {
+    background-color: var(--background-color-hover);
+    color: var(--button-font-color-hover);
+}
+
+.form-element.secondary-form a:hover img {
+    content: url(../icons/download_white.png);
+}
+
+/*=================== key-frames ===================*/ ;

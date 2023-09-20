@@ -1,0 +1,207 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Document</title>
+    </head>
+    <body>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&display=swap"
+            rel="stylesheet"
+        />
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;600;700&display=swap" rel="stylesheet" />
+
+        <link rel="stylesheet" href="{{url_for('static',path='css/index.css')}}" />
+        <link rel="stylesheet" href="{{url_for('static',path='css/main_form.css')}}" />
+        <link rel="stylesheet" href="{{url_for('static',path='css/secondary_form.css')}}" />
+        <link rel="stylesheet" href="{{url_for('static',path='css/main_content_image.css')}}" />
+
+        <script src="../static/js/index.js" defer></script>
+        <script src="../static/js/toTop.js" defer></script>
+
+        <div class="content-wrapper">
+            <header>Web parsing tool</header>
+
+            <form action="" class="form-element main-form" id="main-form" method="post">
+                <div class="form-item url">
+                    <label for="url">
+                        url **
+                        <span class="tool-tip">
+                            <p>
+                                you can define url template for websites with pages by typing ` around number, that specifies page
+                                number.
+                            </p>
+                            <p>
+                                For example: https://www.website.com/pictures/`123` means it will iterate through pages starting
+                                with page number 123
+                            </p>
+                        </span>
+                    </label>
+                    <input
+                        type="text"
+                        class="input-field url"
+                        name="url"
+                        placeholder="insert here your page URL"
+                        value="{{url}}"
+                    />
+                </div>
+
+                <div class="form-item pagesQuantity">
+                    <label for="pagesQuantity">
+                        pages quantity
+                        <span class="tool-tip">
+                            <p>here you can define how many pages parser will list</p>
+                        </span>
+                    </label>
+                    <input
+                        type="number"
+                        class="input-field pagesQuantity"
+                        name="pagesQuantity"
+                        min="1"
+                        value="1"
+                        step="1"
+                        value="{{pagesQuantity}}"
+                    />
+                </div>
+
+                <div class="form-item isScrollable">
+                    <label for="isScrollable">
+                        scroll page
+                        <span class="tool-tip">
+                            <p>if content of website appear on scroll, turn on this checkbox</p>
+                        </span>
+                    </label>
+                    <input type="checkbox" class="input-field isScrollable" name="isScrollable" value="{{isScrollable}}" />
+                </div>
+
+                <div class="form-item scrollIters">
+                    <label for="scrollIters">
+                        scroll iterations
+                        <span class="tool-tip">
+                            <p>
+                                if `scroll page` checked, this define how many times parser will scroll page down till bottom of
+                                page
+                            </p>
+                        </span>
+                    </label>
+                    <input
+                        type="number"
+                        class="input-field scrollIters"
+                        name="scrollIters"
+                        min="1"
+                        max="50"
+                        value="1"
+                        step="1"
+                        value="{{scrollIters}}"
+                    />
+                </div>
+
+                <div class="form-item tag">
+                    <label for="tag"
+                        >tag
+                        <span class="tool-tip">
+                            <p>define here tag, inside which information contained</p>
+                        </span>
+                    </label>
+                    <input type="text" class="input-field tag" name="tag" placeholder="which tag contain data?" value="{{tag}}" />
+                </div>
+
+                <div class="form-item class">
+                    <label for="class"
+                        >class **
+                        <span class="tool-tip">
+                            <p>if `tag` HAVE NOT `class` attribute, write `none` value (without ` sign)</p>
+                            <p>
+                                if you dont want specify `class`, leave filed empty. It will use regex ".{,100}" for `class`
+                                attribute
+                            </p>
+                        </span>
+                    </label>
+                    <input
+                        type="text"
+                        class="input-field class"
+                        name="class"
+                        placeholder="class of this tag?"
+                        value="{{class}}"
+                    />
+                </div>
+
+                <div class="form-item parentTag">
+                    <label for="parentTag"
+                        >parent tag *
+                        <span class="tool-tip">
+                            <p>here you can define parent tag</p>
+                            <p>if you dont want specify this field, leave it empty. It will use regex ".{,100}"</p>
+                        </span>
+                    </label>
+                    <input
+                        type="text"
+                        class="input-field parentTag"
+                        name="parentTag"
+                        placeholder="has it parent tag?"
+                        value="{{parentTag}}"
+                    />
+                </div>
+
+                <div class="form-item parentClass">
+                    <label for="parentClass"
+                        >parent class *
+                        <span class="tool-tip">
+                            <p>here you can define parent class</p>
+                            <p>if you dont want specify this field, leave it empty. It will use regex ".{,100}"</p>
+                        </span>
+                    </label>
+                    <input
+                        type="text"
+                        class="input-field parentClass"
+                        name="parentClass"
+                        placeholder="class of parent tag?"
+                        value="{{parentClass}}"
+                    />
+                </div>
+            </form>
+
+            <button type="submit" id="search-button" form="main-form" formmethod="post" formaction="/index.html/search">
+                SEARCH
+            </button>
+
+            <form action="" class="form-element secondary-form">
+                <a href="../static/parsingResults/parseData.txt" class="download-link" download>
+                    <p>.txt</p>
+                    <img src="" alt="" />
+                </a>
+
+                <a href="../static/parsingResults/parseData.csv" class="download-link" download>
+                    <p>.csv</p>
+                    <img src="" alt="" />
+                </a>
+
+                <a href="../static/parsingResults/parseData.xlsx" class="download-link" download>
+                    <p>.xlsx</p>
+                    <img src="" alt="" />
+                </a>
+
+                <a href="../static/parsingResults/parsed_images.zip" class="download-link">
+                    <p>.jpeg</p>
+                    <img src="" alt="" />
+                </a>
+            </form>
+
+            <main>
+                {% for imagelink in parseResult %}
+                <div class="parse-data">
+                    <img src="{{imagelink}}" alt="img" />
+                </div>
+                {% endfor %}
+            </main>
+        </div>
+
+        <button type="button" id="toTopButton">
+            <img src="" alt="to-top" />
+        </button>
+    </body>
+</html>

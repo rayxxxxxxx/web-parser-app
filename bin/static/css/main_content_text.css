@@ -1,0 +1,59 @@
+/*=================== tag ===================*/
+
+* {
+    font-size: 16px;
+    font-family: "Montserrat";
+    font-weight: 400;
+
+    --accent-color-1: rgb(132, 0, 255);
+    --accent-color-2: rgb(255, 85, 0);
+    --accent-color-3: rgb(15, 211, 103);
+
+    --stroke-color-default: var(--accent-color-1);
+
+    --backgroud-color-default: rgb(255, 255, 255);
+    --background-color-hover: var(--accent-color-1);
+
+    --button-font-color-default: var(--accent-color-1);
+    --button-font-color-hover: rgb(255, 255, 255);
+
+    --box-shadow-color-1: rgb(212, 212, 212);
+
+    --input-stroke-color: rgb(164, 164, 164);
+}
+
+/*=================== class ===================*/
+
+main {
+    display: flex;
+    flex-direction: column;
+
+    width: 70%;
+
+    margin: 70px 0px;
+}
+
+.parse-data {
+    margin-top: 30px;
+
+    border-left: 4px solid rgb(199, 199, 199);
+}
+
+.parse-data > p {
+    position: relative;
+
+    margin: 0 0;
+    padding-left: 20px;
+
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+
+    text-align: justify;
+}
+
+/*=================== id ===================*/
+
+/*=================== hover ===================*/
+
+/*=================== key-frames ===================*/

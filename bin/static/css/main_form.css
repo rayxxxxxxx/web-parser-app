@@ -1,0 +1,182 @@
+/*=================== tag ===================*/
+
+* {
+    --accent-color-1: rgb(132, 0, 255);
+    --accent-color-2: rgb(255, 85, 0);
+    --accent-color-3: rgb(15, 211, 103);
+
+    --stroke-color-default: var(--accent-color-1);
+
+    --backgroud-color-default: rgb(255, 255, 255);
+    --background-color-hover: var(--accent-color-1);
+
+    --button-font-color-default: var(--accent-color-1);
+    --button-font-color-hover: rgb(255, 255, 255);
+
+    --box-shadow-color-1: rgb(212, 212, 212);
+}
+
+/*=================== class ===================*/
+
+.form-element.main-form {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-gap: 15px;
+
+    margin-top: 40px;
+}
+
+.form-item {
+    display: flex;
+    flex-direction: column;
+
+    position: relative;
+}
+
+.form-item > * {
+    margin: 5px 0px;
+}
+
+.form-item > input {
+    width: 100%;
+}
+
+.form-item label {
+    width: fit-content;
+
+    font-size: 14px;
+    font-weight: 300;
+
+    color: rgb(148, 148, 148);
+}
+
+.form-item input {
+    padding: 7px;
+
+    font-family: "Roboto mono", "monospace";
+    font-size: 14px;
+
+    border: 1px solid var(--input-stroke-color);
+    border-radius: 5px;
+
+    color: black;
+}
+
+/*------------------- >>> grid areas -------------------*/
+
+.form-item.url {
+    grid-row: 1;
+    grid-column: 1 / 6;
+}
+
+.form-item.pagesQuantity {
+    grid-row: 1;
+    grid-column: 6 / 7;
+}
+
+.form-item.isScrollable {
+    grid-row: 1;
+    grid-column: 7 / 8;
+
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+
+.form-item.scrollIters {
+    grid-row: 1;
+    grid-column: 8 / 9;
+}
+
+.form-item.tag {
+    grid-row: 2;
+    grid-column: 1 / 3;
+}
+
+.form-item.class {
+    grid-row: 2;
+    grid-column: 3 / 5;
+}
+
+.form-item.parentTag {
+    grid-row: 2;
+    grid-column: 5 / 7;
+}
+
+.form-item.parentClass {
+    grid-row: 2;
+    grid-column: 7 / 9;
+}
+
+/*------------------- grid areas >>> -------------------*/
+
+.form-item.isScrollable label {
+    justify-self: center;
+
+    text-align: center;
+}
+
+.form-item.isScrollable input {
+    align-self: start;
+    justify-self: center;
+
+    transform: scale(1.5);
+
+    width: min-content;
+}
+
+.form-item.pagesQuantity input {
+    text-align: center;
+}
+
+.form-item.scrollIters input {
+    text-align: center;
+}
+
+.form-item span.tool-tip {
+    visibility: hidden;
+
+    position: absolute;
+    top: -25%;
+    left: 0%;
+
+    min-width: 300px;
+    width: fit-content;
+    height: auto;
+
+    padding: 5px;
+
+    background-color: rgb(245, 245, 245);
+
+    border: 1px solid rgb(206, 206, 206);
+    border-radius: 3px;
+
+    opacity: 0%;
+
+    z-index: 1;
+
+    transition: 150ms linear 1s;
+}
+
+.form-item span.tool-tip p {
+    margin-top: 0px;
+
+    color: rgb(0, 0, 0);
+
+    font-size: 16px;
+    font-family: "Roboto monospace", "monospace";
+}
+
+.form-item.isScrollable span.tool-tip {
+    text-align: left;
+}
+
+/*=================== id ===================*/
+
+/*=================== hover ===================*/
+
+.form-item > label:hover span {
+    visibility: visible;
+    opacity: 100%;
+}
+
+/*=================== key-frames ===================*/ ;
